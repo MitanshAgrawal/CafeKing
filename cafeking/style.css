@@ -1,0 +1,49 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}
+i.left{
+    margin-right: 8px;
+}
+nav ul a{
+    padding:0 10px;
+}
+.slider .indicators .indicator-item.active{
+    background-color: #6f4037;
+}
+.move{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.parallax-container{
+    min-height: 280px;
+    height: auto;   
+}
+.parallax-img{
+  width:100%;
+  position:fixed;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+
+}
+i{
+    padding: 0px;
+}
+.icon-coffee{
+color: #6f4037;
+}
+.footer-one{
+    background: #6f4037;
+}
+.footer-two{
+    background: #462822;
+}
+.fa-facebook:hover{
+    color: #3B579D;
+}
+.fa-instagram:hover{
+    color: #DE3B71;
+}
+.fa-twitter:hover{
+    color: #42AAE1;
+}
